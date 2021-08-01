@@ -20,7 +20,7 @@
 	<nav>
 		<ul id="MenuItems">
 			<li><a href=""><i class="fa fa-home fa-fw"></i>Home |</a></li>
-			<li><a href=""><i class="fa fa-globe fa-fw"></i>about us |</a></li>
+			<li><a href="about.php"><i class="fa fa-globe fa-fw"></i>about us |</a></li>
 			<li><a href=""><i class="fa fa-question-circle fa-fw"></i>services |</a></li>
 			<li><a href="contact.php"><i class="fa fa-phone fa-fw"></i>contact |</a></li>
 			<li><a href="log/login.php"><i class="fa fa-sign-in"></i>Login </button></a></li>
