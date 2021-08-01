@@ -1,4 +1,4 @@
-
+//javascript for transition of login page
 $(function()
 {
     function after_form_submitted(data) 
