@@ -3,7 +3,7 @@
 
 include 'mydbCon.php';
 
-$query = "DELETE FROM bus WHERE bus_no='" . $_GET["bus_no"] . "'"; // Delete data from the table customers using id
+$query = "DELETE FROM bus WHERE bus_no='" . $_GET["bus_no"] . "'"; // Delete data from the table bus using bus_no
 
  if (mysqli_query($dbCon, $query)) {
     $msg = 3;
