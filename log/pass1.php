@@ -7,7 +7,7 @@
     
 </head>
 <body>
-
+<!-- client can change thier password-->
 <div class="container mt-2">
 
   <div class="page-header">
@@ -16,13 +16,6 @@
 
     <div class="row">
         <div class="col-md-12">
-       <!-- <?php include 'mydbCon.php';
-            $query = "SELECT * FROM user_tbl WHERE user_pass='" . $_POST["user_pass"] . "'"; // Fetch data from the table bus using bus_no
-
-            $result=mysqli_query($dbCon,$query);
-
-            $cust = mysqli_fetch_assoc($result);
-        ?>-->
                   <form action="chpass.php" method="POST">
 
               <div class="form-group">
